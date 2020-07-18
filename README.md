@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **severgroup-tt**
 
-- 💬 Ask me about **Javascript, vue**
+- 💬 Ask me about **JavaScript, Vue, vim, git**
 
 - 📫 How to reach me **mu.usikov@gmail.com**
 
