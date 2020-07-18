@@ -2,8 +2,6 @@
 <h3 align="center">A passionate frontend developer from Russia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxim-usikov" alt="maxim-usikov" /> </p>
 
-- 🔭 I’m currently working on **severgroup-tt**
-
 - 💬 Ask me about **JavaScript, Vue, vim, git**
 
 - 📫 How to reach me **mu.usikov@gmail.com**
