@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maxim Usikov</h1>
-<h3 align="center">A passionate frontend developer from Russia</h3>
+<h3 align="center">A passionate Software Engineer from Russia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxim-usikov" alt="maxim-usikov" /> </p>
 
 - 💬 Ask me about **JavaScript, Vue, vim, git**
