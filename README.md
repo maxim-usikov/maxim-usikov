@@ -11,6 +11,4 @@
 <a href="https://twitter.com/maxim_usikov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="maxim_usikov" height="20" width="20" /></a>
 <a href="https://stackoverflow.com/maxim.u" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="maxim.u" height="20" width="20" /></a>
 <a href="https://codesandbox.com/maxim-usikov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="maxim-usikov" height="20" width="20" /></a>
-<a href="https://fb.com/mu.usikov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mu.usikov" height="20" width="20" /></a>
-<a href="https://instagram.com/maxim_usikov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maxim_usikov" height="20" width="20" /></a>
 </p>
